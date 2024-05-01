@@ -1,0 +1,3 @@
+This is our Big Data course group project, focusing on analyzing trends of the Yelp dataset through Google Cloud Console with pyspark. This project aims to analyze text data in the form of user reviews, in conjunction with numerical information related to businesses and their users from the Yelp Dataset. We aim to utilize fundamental Spark methods to offload the heavy lifting to compile our dataset for analysis, carry out the necessary data cleaning steps, build an EDA, and apply some basic machine learning techniques. In doing so, we will uncover how information regarding various businesses and their reviews correlates with each other.
+
+Collaborators: Jonathan Blanco, Dylan Kakkanad, Neeharika Kamireddy, Pengru Lin, Yahui Wen
